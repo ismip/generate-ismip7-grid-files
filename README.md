@@ -18,9 +18,6 @@ Based on work by Jeremy Fyke, Andy Bliss and others.
 
 Will generate a number of grid description files for use with the cdo remap command (https://code.mpimet.mpg.de/projects/cdo).
 
-## Script for BedMachine Greenland data grid
-```BedMachine_GrIS_multigrid_generater_nc.m```
-
 ## Utilities
 
 ```polarstereo_inv.m```
