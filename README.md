@@ -1,6 +1,7 @@
 # generate-ismip7-grid-files
 
-Matlab scripts to generate grid description files used for cdo regridding.
+Matlab scripts to generate grid description files used for cdo regridding.  
+See also [python version of scripts](https://github.com/ismip/generate-ismip7-grid-files-py)
 
 All regridding operations in ISMIP7 are based on these grid description files.
 
